@@ -1,0 +1,9 @@
+Vitamin C Serum,Garnier,200,1000.0,France
+Skin Cleanser,Cetaphil,220,280.0,Switzerland
+Sunscreen,Aqualogica,210,1400.0,India
+Softskin Lotion,Dove,230,3000.0,USA
+Moisturizer,Nivea,200,3000.0,Nepal
+Face Wash,Himalaya,300,150.0,Nepal
+UV mositure milk,Sunplay,100,200.0,Nepal
+Guts,Dot and key,100,100.0,Nepal
+Acne spray,Glytone,62,150.0,America

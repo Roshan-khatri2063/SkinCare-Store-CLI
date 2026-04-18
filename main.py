@@ -1,4 +1,5 @@
-
+from Operation import sell_product, restock_product, display_products
+from Read import read_products
 # Main function to drive the inventory management system
 def main():
     while True:
